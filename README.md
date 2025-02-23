@@ -15,17 +15,17 @@ Currently, I am expanding my expertise in **full-stack development**, focusing o
 
 🖥️ **Languages & Tools**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
 ![JavaScript](https://github.com/user-attachments/assets/0d775bb9-eef1-4f51-9234-53988288c949)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000)
+![Node.js](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000)
+![Express.js](https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000)
+![MongoDB](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)
+![PostgreSQL](https://img.icons8.com/?size=100&id=36440&format=png&color=000000)
+![Bootstrap](https://img.icons8.com/?size=100&id=OODqBWCdRF8o&format=png&color=000000)
+![Material-UI](https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000)
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 ---
 
 🚀 I am always eager to learn and work on innovative projects that benefit society!
