@@ -36,4 +36,6 @@ Currently, I am expanding my expertise in **full-stack development**, focusing o
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaghamGhawanmeh&theme=tokyonight)
 ---
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamGhawanmeh&layout=compact&theme=radical) 
 🚀 I am always eager to learn and work on innovative projects that benefit society!
