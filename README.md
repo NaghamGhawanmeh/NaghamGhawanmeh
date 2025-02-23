@@ -1,5 +1,5 @@
-🛠️ **About Me**
-
+👋**Hi there**
+---
 I am **Nagham Ghawanimah**, a passionate **Junior Full Stack Developer** with a background in Telecommunications Engineering. My journey into programming began through **Meraki Academy's coding bootcamp**, where I honed my skills in Full Stack development.
 
 Currently, I am expanding my expertise in **full-stack development**, focusing on **React.js** and **Node.js** to build scalable, user-friendly web applications. My ultimate goal is to combine my knowledge of technology and development to create innovative solutions with real-world impact.
