@@ -27,11 +27,13 @@ Currently, I am expanding my expertise in **full-stack development**, focusing o
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 ---
 
-📊  Stats
+📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaghamGhawanmeh&show_icons=true&theme=tokyonight)
 
 ---
+📊 GitHub Streak
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaghamGhawanmeh&theme=radical)
 ---
 🚀 I am always eager to learn and work on innovative projects that benefit society!
