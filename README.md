@@ -26,7 +26,7 @@ Currently, I am expanding my expertise in **full-stack development**, focusing o
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+JavaScript  NodeJS  ExpressJS   ReactJS  NextJS   TailwindCSS   VSCode  Photoshop  Github  HTML5  CSS3
 ---
 
 🚀 I am always eager to learn and work on innovative projects that benefit society!
