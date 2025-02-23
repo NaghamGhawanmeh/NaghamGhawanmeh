@@ -31,6 +31,6 @@ Currently, I am expanding my expertise in **full-stack development**, focusing o
 --
 📊  Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?NaghamGhawanmeh=NaghamGhawanmeh&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?naghamghawanmeh=NaghamGhawanmeh&show_icons=true&theme=radical)
 
 ===
