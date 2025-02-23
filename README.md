@@ -9,8 +9,7 @@ Currently, I am expanding my expertise in **full-stack development**, focusing o
 📬 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naghamghawanmeh/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaghamGhawanmeh)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghawanmehnagham@gmail.com)
 ---
 
 🖥️ **Languages & Tools**
