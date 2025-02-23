@@ -26,7 +26,7 @@ Currently, I am expanding my expertise in **full-stack development**, focusing o
 ![Material-UI](https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000)
 ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamGhawanmeh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamGhawanmeh&layout=compact&theme=radical&cache_seconds=86400)
 
 📊 GitHub Stats
 
