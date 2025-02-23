@@ -37,3 +37,6 @@ Currently, I am expanding my expertise in **full-stack development**, focusing o
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaghamGhawanmeh&layout=compact&theme=radical)
 
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaghamGhawanmeh&show_icons=true&theme=tokyonight)
+
