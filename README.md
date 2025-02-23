@@ -34,6 +34,6 @@ Currently, I am expanding my expertise in **full-stack development**, focusing o
 ---
 📊 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaghamGhawanmeh&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaghamGhawanmeh&theme=tokyonight)
 ---
 🚀 I am always eager to learn and work on innovative projects that benefit society!
